@@ -1,0 +1,12 @@
+dist/VersionsByDate.app/Contents/Info.plist
+dist/VersionsByDate.app/Contents/MacOS/VersionsByDate
+dist/VersionsByDate.app/Contents/MacOS/python
+dist/VersionsByDate.app/Contents/PkgInfo
+dist/VersionsByDate.app/Contents/Resources/PythonApplet.icns
+dist/VersionsByDate.app/Contents/Resources/__boot__.py
+dist/VersionsByDate.app/Contents/Resources/__error__.sh
+dist/VersionsByDate.app/Contents/Resources/lib/python2.7/config
+dist/VersionsByDate.app/Contents/Resources/lib/python2.7/site.pyc
+dist/VersionsByDate.app/Contents/Resources/site.py
+dist/VersionsByDate.app/Contents/Resources/site.pyc
+setup.py
